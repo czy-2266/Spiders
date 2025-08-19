@@ -1,0 +1,263 @@
+[
+  {
+    "channelname": "大众新闻-山东",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "407",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-国资",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "439",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  } ,
+  {
+    "channelname": "大众新闻-半岛新闻",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "330",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-海报新闻",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "331",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-齐鲁壹点",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "332",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-风口财经",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "329",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-农村大众",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "333",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-文旅",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "468",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-交通",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "461",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-智库",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "650",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-大众期刊",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "498",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-党建",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "373",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-帮办",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "1176",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-观点",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "497",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-济南",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "349",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+{
+    "channelname": "大众新闻-AI+",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "1183",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-监管",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "475",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-法治山东",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "327",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-政法",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "629",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+{
+    "channelname": "大众新闻-文化",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "428",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+{
+    "channelname": "大众新闻-青岛西海岸报",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "324",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-鲁中晨报",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "326",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-科技",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "421",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-经济导报",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "328",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-金融",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "454",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  },
+  {
+    "channelname": "大众新闻-健康",
+    "url": "https://dz.dzng.com/general/0/",
+    "main_url": "https://api.dzplus.dzng.com/gateway/channel/api/channel/list/new",
+    "id": "377",
+    "start_page": 1,
+    "final_page": 3,
+    "content_xpath": "//div[@class='news']/div[@class='content editorContent']//text()|//div[@class='video-wraps' or @class='intro clearfix']//text()",
+    "source_xpath": "//p[@class='source1 lineClamp1']/text()[1]"
+  }
+
+]

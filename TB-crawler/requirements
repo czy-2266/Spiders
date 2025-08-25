@@ -1,0 +1,6 @@
+redis>=4.5.5
+requests>=2.31.0
+pymysql>=1.1.0
+beautifulsoup4>=4.12.3
+execjs>=1.5.1
+python-dotenv>=1.0.0
